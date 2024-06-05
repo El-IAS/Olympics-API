@@ -8,6 +8,8 @@
     <packaging>pom</packaging>
 
     <modules>
+	<module>olympics-planning-service</module>
+	<module>olympics-sport-service</module>
         <module>olympics-site-service</module>
         <module>olympics-schedule-service</module>
     </modules>

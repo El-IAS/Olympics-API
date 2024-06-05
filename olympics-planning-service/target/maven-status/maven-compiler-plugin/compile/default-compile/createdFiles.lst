@@ -1,0 +1,6 @@
+com\olympics\planning\model\PlanEvent.class
+com\olympics\planning\service\PlanningService.class
+com\olympics\planning\model\Planning.class
+com\olympics\planning\OlympicsPlanningServiceApplication.class
+com\olympics\planning\repository\PlanningRepository.class
+com\olympics\planning\controller\PlanningController.class

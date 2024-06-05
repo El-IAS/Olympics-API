@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="olympics-schedule-service" />
+        <module name="olympics-planning-service" />
+        <module name="olympics-site-service" />
+        <module name="olympics-sport-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="17">
+      <module name="olympics-2024" target="17" />
+      <module name="olympics-planning-service" target="17" />
+      <module name="olympics-schedule-service" target="17" />
+      <module name="olympics-site-service" target="17" />
+      <module name="olympics-sport-service" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

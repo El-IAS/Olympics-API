@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bfa85f81-f6fa-41b3-bd32-ff5adba7689a" name="Changes" comment="Add functionnalities">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/olympics-schedule-service/target/classes/com/olympics/schedule/controller/ScheduleController.class" beforeDir="false" afterPath="$PROJECT_DIR$/olympics-schedule-service/target/classes/com/olympics/schedule/controller/ScheduleController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/olympics-schedule-service/target/classes/com/olympics/schedule/service/ScheduleService.class" beforeDir="false" afterPath="$PROJECT_DIR$/olympics-schedule-service/target/classes/com/olympics/schedule/service/ScheduleService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/olympics-site-service/target/classes/com/olympics/site/repository/SiteRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/olympics-site-service/target/classes/com/olympics/site/repository/SiteRepository.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="2gxLExwZj1R4Qb2ogwSjv0G0w8V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="openjdk-21" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Boufo\Documents\Olympics-2024" />
+      <recent name="C:\Users\Boufo\Documents\Olympics-2024\olympics-sport-service\src\main\resources" />
+      <recent name="C:\Users\Boufo\Documents\Olympics-2024\olympics-site-service\src\main\resources" />
+      <recent name="C:\Users\Boufo\Documents\Olympics-2024\olympics-schedule-service\src\main\resources" />
+      <recent name="C:\Users\Boufo\Documents\Olympics-2024\olympics-planning-service\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Boufo\Documents\Olympics-2024\src\main" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.olympics.schedule.model" />
+      <recent name="com.olympics.site.model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Compound.All services">
+    <configuration name="ApiGatewayApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.olympics.ApiGatewayApplication" />
+      <module name="olympics-2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.olympics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OlympicsPlanningServiceApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.olympics.planning.OlympicsPlanningServiceApplication" />
+      <module name="olympics-planning-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.olympics.planning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OlympicsScheduleServiceApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.olympics.schedule.OlympicsScheduleServiceApplication" />
+      <module name="olympics-schedule-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.olympics.schedule.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OlympicsSiteServiceApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.olympics.site.OlympicsSiteServiceApplication" />
+      <module name="olympics-site-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.olympics.site.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OlympicsSportServiceApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.olympics.sport.OlympicsSportServiceApplication" />
+      <module name="olympics-sport-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.com.olympics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All services" type="CompoundRunConfigurationType">
+      <toRun name="OlympicsSiteServiceApplication" type="Application" />
+      <toRun name="OlympicsPlanningServiceApplication" type="Application" />
+      <toRun name="OlympicsScheduleServiceApplication" type="Application" />
+      <toRun name="OlympicsSportServiceApplication" type="Application" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="CompoundRunConfigurationType">
+      <toRun name="OlympicsSiteServiceApplication" type="Application" />
+      <toRun name="OlympicsPlanningServiceApplication" type="Application" />
+      <toRun name="OlympicsScheduleServiceApplication" type="Application" />
+      <toRun name="OlympicsSportServiceApplication" type="Application" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.OlympicsPlanningServiceApplication" />
+      <item itemvalue="Application.OlympicsScheduleServiceApplication" />
+      <item itemvalue="Application.OlympicsSiteServiceApplication" />
+      <item itemvalue="Application.OlympicsSportServiceApplication" />
+      <item itemvalue="Application.ApiGatewayApplication" />
+      <item itemvalue="Compound.All services" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ApiGatewayApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfa85f81-f6fa-41b3-bd32-ff5adba7689a" name="Changes" comment="" />
+      <created>1716634173552</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716634173552</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Add functionnalities">
+      <created>1717594028095</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717594028095</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add functionnalities" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add functionnalities" />
+  </component>
+</project>

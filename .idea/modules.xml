@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/olympics-2024.iml" filepath="$PROJECT_DIR$/olympics-2024.iml" />
+      <module fileurl="file://$PROJECT_DIR$/olympics-planning-service/olympics-planning-service.iml" filepath="$PROJECT_DIR$/olympics-planning-service/olympics-planning-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/olympics-schedule-service/olympics-schedule-service.iml" filepath="$PROJECT_DIR$/olympics-schedule-service/olympics-schedule-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/olympics-site-service/olympics-site-service.iml" filepath="$PROJECT_DIR$/olympics-site-service/olympics-site-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/olympics-sport-service/olympics-sport-service.iml" filepath="$PROJECT_DIR$/olympics-sport-service/olympics-sport-service.iml" />
+    </modules>
+  </component>
+</project>
